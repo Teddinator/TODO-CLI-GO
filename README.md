@@ -10,7 +10,7 @@ This project was originally built by following a Go CLI tutorial and was later e
 ## Installation
 
 git clone git@github.com:Teddinator/TODO-CLI-GO.git
-cd todo-cli-GO
+cd TODO-CLI-GO
 go build -o todo
 
 ## Usage
